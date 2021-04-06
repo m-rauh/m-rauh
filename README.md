@@ -6,4 +6,6 @@ Current projects:
 - Game development from scratch using SDL2 and OpenGL
 - Song Lyrics Data Analysis (soon on git)
 
+www.linkedin.com/in/matheus-rauh
+
 📫 matheusrauh@gmail.com
