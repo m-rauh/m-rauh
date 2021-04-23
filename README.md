@@ -3,8 +3,8 @@
 
 Current projects:
 - Studying cloud practices with AWS
+- Data Analysis
 - Game development from scratch using SDL2 and OpenGL
-- Data Analysis (soon on git)
 
 Check out my [blog](https://m-rauh.github.io/) for updates and discussions.
 
